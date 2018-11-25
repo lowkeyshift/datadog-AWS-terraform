@@ -1,7 +1,7 @@
 # datadog-AWS-terraform
 
 ## Description
-This repo is used as a starting template for deploying an ubuntu AIM to your AWS account. This will also create generate a new [Timeboard])https://docs.datadoghq.com/graphing/dashboards/timeboard/) and [Monitor](https://docs.datadoghq.com/monitors/) within [Datadog](https://www.datadoghq.com/) for that new EC2 instance.
+This repo is used as a starting template for deploying an ubuntu AIM to your AWS account. This will also create generate a new [Timeboard](https://docs.datadoghq.com/graphing/dashboards/timeboard/) and [Monitor](https://docs.datadoghq.com/monitors/) within [Datadog](https://www.datadoghq.com/) for that new EC2 instance.
 
 ## Requirements
 
